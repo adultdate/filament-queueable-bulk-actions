@@ -1,22 +1,22 @@
 {
-    "name": "bytexr/filament-queueable-bulk-actions",
+    "name": "adultdate/filament-queueable-bulk-actions",
     "description": "This Filament plugin simplifies managing bulk operations asynchronously in a queue. It provides tracking and status updates for tasks, while supporting both action calls and job dispatches. Excellent for bulk data updates and tasks with Filament & Livewire support for real-time notifications.",
     "keywords": [
-        "bytexr",
+        "adultdate",
         "laravel",
         "filament",
         "queueable-bulk-actions"
     ],
-    "homepage": "https://github.com/bytexr/queueable-bulk-actions",
+    "homepage": "https://github.com/adultdate/queueable-bulk-actions",
     "support": {
-        "issues": "https://github.com/bytexr/queueable-bulk-actions/issues",
-        "source": "https://github.com/bytexr/queueable-bulk-actions"
+        "issues": "https://github.com/adultdate/queueable-bulk-actions/issues",
+        "source": "https://github.com/adultdate/queueable-bulk-actions"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Eddie Rusinskas",
-            "email": "info@imphus.com",
+            "name": "adultdate",
+            "email": "adultdate@gmail.com",
             "role": "Developer"
         }
     ],
